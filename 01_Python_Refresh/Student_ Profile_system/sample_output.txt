@@ -1,0 +1,4 @@
+Enter student name: Iqra
+Enter age: 32
+Enter department: Robotics
+Enter skills: ROS2
