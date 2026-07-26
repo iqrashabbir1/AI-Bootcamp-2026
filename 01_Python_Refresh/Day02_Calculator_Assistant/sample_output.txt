@@ -1,0 +1,7 @@
+=== Smart Calculator Assistant ===
+
+Enter first number: 10
+Choose operation (+,-,*,/): *
+Enter second number: 5
+
+Result: 50
