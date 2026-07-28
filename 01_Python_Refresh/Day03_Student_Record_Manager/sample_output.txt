@@ -1,0 +1,166 @@
+Student Record Management System
+===================================
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Total Students
+7. Exit
+
+Enter your choice: 1
+
+===== Add Student =====
+Enter Name: Iqra
+Enter Age: 34
+Enter Department: Robotics
+✅ Student added successfully.
+
+===================================
+ Student Record Management System
+===================================
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Total Students
+7. Exit
+
+Enter your choice: 1
+
+===== Add Student =====
+Enter Name: Ali
+Enter Age: 22
+Enter Department: Bussiness
+✅ Student added successfully.
+
+===================================
+ Student Record Management System
+===================================
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Total Students
+7. Exit
+
+Enter your choice: 1
+
+===== Add Student =====
+Enter Name: Asim
+Enter Age: 34
+Enter Department: Electrical Engineering
+✅ Student added successfully.
+
+===================================
+ Student Record Management System
+===================================
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Total Students
+7. Exit
+
+Enter your choice: 2
+
+===== Student List =====
+
+Student 1
+Name       : Iqra
+Age        : 34
+Department : Robotics
+
+Student 2
+Name       : Ali
+Age        : 22
+Department : Bussiness
+
+Student 3
+Name       : Asim
+Age        : 34
+Department : Electrical Engineering
+
+===================================
+ Student Record Management System
+===================================
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Total Students
+7. Exit
+
+Enter your choice: 2
+
+===== Student List =====
+
+Student 1
+Name       : Iqra
+Age        : 34
+Department : Robotics
+
+Student 2
+Name       : Ali
+Age        : 22
+Department : Bussiness
+
+Student 3
+Name       : Asim
+Age        : 34
+Department : Electrical Engineering
+
+===================================
+ Student Record Management System
+===================================
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Total Students
+7. Exit
+
+Enter your choice: 3
+
+===== Search Student =====
+Enter Student Name: iqra
+
+Student Found
+---------------------
+Name       : Iqra
+Age        : 34
+Department : Robotics
+
+===================================
+ Student Record Management System
+===================================
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Total Students
+7. Exit
+
+Enter your choice: 6
+
+===== Statistics =====
+Total Students: 3
+
+===================================
+ Student Record Management System
+===================================
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Total Students
+7. Exit
+
+Enter your choice: 7                                                                                                      

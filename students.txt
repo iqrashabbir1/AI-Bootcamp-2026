@@ -1,0 +1,3 @@
+Iqra,34,Robotics
+Ali,22,Bussiness
+Asim,34,Electrical Engineering
